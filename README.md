@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NMNKMR
+- 👋 Hi, I’m Naman Goel
 - 👀 I’m interested in Tech Companies, Entertainment Industry.
-- 🌱 MERN Developer and trying to expand my knowledge as much as possible.
-- 💞️ I’m looking to collaborate on ..
+- 🌱 MERN Developer and creating projects as well as learning from various sources to gain as much knowledge.
+- 💞️ I’m looking forward to working and contributing to the projects utilizing my skills.
 - 📫 How to reach me Email-id : namangoel55@gmail.com, Mob no. 9354312691
 
 <!---
