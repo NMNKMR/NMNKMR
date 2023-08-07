@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMNKMR
 - 👀 I’m interested in Tech Companies, Entertainment Industry.
-- 🌱 I’m currently learning Java Programming language, MERN
+- 🌱 MERN Developer and trying to expand my knowledge as much as possible.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Email-id : namangoel55@gmail.com, Mob no. 9354312691
 
